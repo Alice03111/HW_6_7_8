@@ -1682,16 +1682,6 @@ header .hed .block_menu .menu li:hover:after {
 	color: #fff;
 }
 
-.container15 p.speech:before {
-	content: ' ';
-	position: absolute;
-	width: 55px;
-	height: 55px;
-	left: 235px;
-	top: 169px;
-	clip-path: polygon(40% 0%, 100% 0%, 0% 100%);
-	background-color: #262626;
-}
 
 
 
